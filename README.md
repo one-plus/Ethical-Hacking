@@ -4,3 +4,7 @@
 
 ### This repository contains reference material &amp; links for people willing to learn Ethical Hacking
 #### Credits
+
+## List of Security Challenges
+
+- [CodePath Security Shepherd](https://security.codepath.com/login.jsp)
