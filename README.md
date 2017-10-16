@@ -10,6 +10,7 @@
 - ["Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation" by Bruce Dang, Alexandre Gazet, Elias Bachaalany, Sebastien Josse, Wiley](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118787315,subjectCd-CSJ0.html)
 - ["Practical Malware Analysis" by Michael Sikorski and Andrew Honig, no starch press](https://www.nostarch.com/malware)
 
+
 #### List of InfoSec Challenge & Practice sites
 
 - [HackThis!!](https://www.hackthis.co.uk)
@@ -18,6 +19,8 @@
 - [Cyber Security Challenge UK](https://www.cybersecuritychallenge.org.uk)
 - [Cyber Security Awareness Week](https://csaw.engineering.nyu.edu)
 - [Introduction | CTF Resources](https://ctfs.github.io/resources)
+- [CodePath Security Shepherd](https://security.codepath.com)
+
 
 #### Exploit Database
 
