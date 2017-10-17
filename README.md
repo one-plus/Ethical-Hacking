@@ -24,15 +24,17 @@
 
 - [Blackhat](http://www.blackhat.com/)
 - [DEF CON&reg;](https://www.defcon.org/) 
-- [Defcon youtube channel](https://www.youtube.com/user/DEFCONConference)
 
 #### List of InfoSec Challenge & Practice sites
 
 - [HackThis!!](https://www.hackthis.co.uk)
+- [Hack This Site!](https://www.hackthissite.org)
 - [TRY2HACK](http://www.try2hack.nl)
 - [Cyber Security Challenge UK](https://www.cybersecuritychallenge.org.uk)
 - [Cyber Security Awareness Week](https://csaw.engineering.nyu.edu)
 - [Introduction | CTF Resources](https://ctfs.github.io/resources)
+- [CodePath Security Shepherd](https://security.codepath.com)
+
 
 #### Exploit Database
 
