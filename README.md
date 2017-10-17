@@ -10,11 +10,25 @@
 - ["Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation" by Bruce Dang, Alexandre Gazet, Elias Bachaalany, Sebastien Josse, Wiley](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118787315,subjectCd-CSJ0.html)
 - ["Practical Malware Analysis" by Michael Sikorski and Andrew Honig, no starch press](https://www.nostarch.com/malware)
 
+#### Online Courses
+
+- [Computer Systems Security, MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/)
+
+#### Websites
+
+- [Complete Penetration Testing Tutorials by OWASP](https://www.owasp.org/index.php/Web_Application_Penetration_Testing)
+- [IT Security Training &amp; Resources by InfoSec Institute](http://resources.infosecinstitute.com/)
+- [Pentester Lab](https://pentesterlab.com/)
+
+#### Hacking Conferences
+
+- [Blackhat](http://www.blackhat.com/)
+- [DEF CON&reg;](https://www.defcon.org/) 
 
 #### List of InfoSec Challenge & Practice sites
 
 - [HackThis!!](https://www.hackthis.co.uk)
-- [Hack This Site!](https://www.hackthis.co.uk)
+- [Hack This Site!](https://www.hackthissite.org)
 - [TRY2HACK](http://www.try2hack.nl)
 - [Cyber Security Challenge UK](https://www.cybersecuritychallenge.org.uk)
 - [Cyber Security Awareness Week](https://csaw.engineering.nyu.edu)
@@ -25,3 +39,4 @@
 #### Exploit Database
 
 - [Exploits Database by Offensive Security](https://www.exploit-db.com)
+
