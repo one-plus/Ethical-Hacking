@@ -13,6 +13,7 @@
 #### Online Courses
 
 - [Computer Systems Security, MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/)
+- [Cybrary - Penetration Testing and Ethical Hacking](https://www.cybrary.it/course/ethical-hacking/)
 
 #### Websites
 
