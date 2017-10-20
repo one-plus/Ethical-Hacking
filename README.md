@@ -9,6 +9,7 @@
 - ["Gray Hat Python - Python Programming for Hackers and Reverse Engineers" by Justin Seitz, no starch press](https://www.nostarch.com/ghpython.htm)
 - ["Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation" by Bruce Dang, Alexandre Gazet, Elias Bachaalany, Sebastien Josse, Wiley](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118787315,subjectCd-CSJ0.html)
 - ["Practical Malware Analysis" by Michael Sikorski and Andrew Honig, no starch press](https://www.nostarch.com/malware)
+- ["Hacking For Dummies, 5th Edition" by Wiley] (http://as.wiley.com/WileyCDA/WileyTitle/productCd-1119154685.html)
 
 #### Online Courses
 
